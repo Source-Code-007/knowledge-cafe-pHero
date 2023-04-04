@@ -1,0 +1,59 @@
+[
+  {
+    "id": "6425bd738ee27427abf790bb",
+    "title": "Object-Oriented Programming: A Comprehensive Guide for Beginners",
+    "author_name": "John Wick",
+    "cover_img": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1931&q=80",
+    "author_img": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
+    "read_time": 15,
+    "publish_date": "04/25/2021",
+    "tags": [
+      "Object-Oriented-Programming",
+      "Abstraction",
+      "Object",
+      "Constructor",
+      "Method"
+    ]
+  },
+  {
+    "id": "6425bd736ad42d37d322d8ef",
+    "title": "Introduction to Data Structures and Algorithms",
+    "author_name": "Malena",
+    "cover_img": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "author_img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1964&q=80",
+    "read_time": 7,
+    "publish_date": "02/14/2021",
+    "tags": [
+      "algorithm",
+      "data structures"
+    ]
+  },
+  {
+    "id": "6425bd735dd2abb880e8e77a",
+    "title": "Understanding API Design and RESTful Web Services",
+    "author_name": "Stephen Hawking",
+    "cover_img": "https://images.unsplash.com/photo-1521185496955-15097b20c5fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80",
+    "author_img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
+    "read_time": 25,
+    "publish_date": "1/24/2019",
+    "tags": [
+      "Restful web service",
+      "API design",
+      "API development"
+    ]
+  },
+  {
+    "id": "6425bd737a71d644fcb8678f",
+    "title": "DevOps for Developers: Streamlining Development and Operations",
+    "author_name": "Abraham Linkoln",
+    "cover_img": "https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "author_img": "https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1888&q=80",
+    "read_time": 15,
+    "publish_date": "03/28/2023",
+    "tags": [
+      "DevOps",
+      "testing",
+      "algorithm"
+    ]
+  }
+]
